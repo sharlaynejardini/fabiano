@@ -1,0 +1,182 @@
+﻿[
+    {
+        "n":  1,
+        "answer":  "A",
+        "level":  1,
+        "skill":  "1 — Inteiros"
+    },
+    {
+        "n":  2,
+        "answer":  "C",
+        "level":  1,
+        "skill":  "1 — Inteiros"
+    },
+    {
+        "n":  3,
+        "answer":  "B",
+        "level":  1,
+        "skill":  "2 — Frações e decimais"
+    },
+    {
+        "n":  4,
+        "answer":  "C",
+        "level":  1,
+        "skill":  "6 — Plano cartesiano"
+    },
+    {
+        "n":  5,
+        "answer":  "C",
+        "level":  1,
+        "skill":  "8 — Área"
+    },
+    {
+        "n":  6,
+        "answer":  "B",
+        "level":  1,
+        "skill":  "9 — Leitura de dados"
+    },
+    {
+        "n":  7,
+        "answer":  "D",
+        "level":  2,
+        "skill":  "1 — Operações com inteiros"
+    },
+    {
+        "n":  8,
+        "answer":  "B",
+        "level":  2,
+        "skill":  "1 — Operações com inteiros"
+    },
+    {
+        "n":  9,
+        "answer":  "B",
+        "level":  2,
+        "skill":  "2 — Ordenação de racionais"
+    },
+    {
+        "n":  10,
+        "answer":  "C",
+        "level":  2,
+        "skill":  "4 — Sequências"
+    },
+    {
+        "n":  11,
+        "answer":  "E",
+        "level":  2,
+        "skill":  "4 — Sequências"
+    },
+    {
+        "n":  12,
+        "answer":  "C",
+        "level":  2,
+        "skill":  "8 — Perímetro"
+    },
+    {
+        "n":  13,
+        "answer":  "C",
+        "level":  2,
+        "skill":  "8 — Área"
+    },
+    {
+        "n":  14,
+        "answer":  "D",
+        "level":  2,
+        "skill":  "9 — Tabela de dupla entrada"
+    },
+    {
+        "n":  15,
+        "answer":  "D",
+        "level":  3,
+        "skill":  "3 — Operações com frações"
+    },
+    {
+        "n":  16,
+        "answer":  "D",
+        "level":  3,
+        "skill":  "3 — Multiplicação de racionais"
+    },
+    {
+        "n":  17,
+        "answer":  "C",
+        "level":  3,
+        "skill":  "2 — Porcentagem"
+    },
+    {
+        "n":  18,
+        "answer":  "C",
+        "level":  3,
+        "skill":  "5 — Proporcionalidade"
+    },
+    {
+        "n":  19,
+        "answer":  "C",
+        "level":  3,
+        "skill":  "7 — Equações"
+    },
+    {
+        "n":  20,
+        "answer":  "C",
+        "level":  3,
+        "skill":  "4 — Expressões algébricas"
+    },
+    {
+        "n":  21,
+        "answer":  "C",
+        "level":  3,
+        "skill":  "6 — Coordenadas"
+    },
+    {
+        "n":  22,
+        "answer":  "D",
+        "level":  3,
+        "skill":  "8 — Volume"
+    },
+    {
+        "n":  23,
+        "answer":  "B",
+        "level":  3,
+        "skill":  "9 — Interpretação de dados"
+    },
+    {
+        "n":  24,
+        "answer":  "C",
+        "level":  4,
+        "skill":  "3 — Potências e racionais"
+    },
+    {
+        "n":  25,
+        "answer":  "D",
+        "level":  4,
+        "skill":  "7 — Equações com dois membros"
+    },
+    {
+        "n":  26,
+        "answer":  "D",
+        "level":  4,
+        "skill":  "5 — Proporcionalidade inversa"
+    },
+    {
+        "n":  27,
+        "answer":  "D",
+        "level":  4,
+        "skill":  "8 — Ampliação e área"
+    },
+    {
+        "n":  28,
+        "answer":  "B",
+        "level":  4,
+        "skill":  "8 — Ângulos de polígonos"
+    },
+    {
+        "n":  29,
+        "answer":  "B",
+        "level":  4,
+        "skill":  "9 — Probabilidade"
+    },
+    {
+        "n":  30,
+        "answer":  "C",
+        "level":  4,
+        "skill":  "9 — Análise crítica de dados"
+    }
+]

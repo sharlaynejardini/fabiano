@@ -1,0 +1,332 @@
+[
+  {
+    "n": 1,
+    "text": "Na previsão do tempo para uma viagem escolar, quatro cidades apresentaram as seguintes temperaturas ao amanhecer: Serra Alta, −4 °C; Vale Verde, 2 °C; Lago Azul, 0 °C; e Campo Novo, −1 °C. A turma precisa escolher a cidade em que fará mais frio. Qual temperatura corresponde a essa cidade?",
+    "options": [
+      "−4 °C",
+      "−1 °C",
+      "0 °C",
+      "2 °C",
+      "4 °C"
+    ]
+  },
+  {
+    "n": 2,
+    "text": "Um prédio possui dois andares de garagem abaixo da rua, identificados por −2 e −1. Os visitantes entram pelo térreo, que é o ponto de referência para os demais andares. Qual número deve aparecer no botão do elevador que leva à entrada principal?",
+    "options": [
+      "−2",
+      "−1",
+      "0",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "n": 3,
+    "text": "Para preparar um refresco, Júlia consultou uma receita que pede sete décimos de litro de água. O copo medidor disponível mostra apenas valores decimais em litros. Que marcação Júlia deve procurar para colocar exatamente a quantidade indicada?",
+    "options": [
+      "0,07",
+      "0,7",
+      "1,7",
+      "7,0",
+      "0,17"
+    ]
+  },
+  {
+    "n": 4,
+    "text": "Em um jogo de localização, os estudantes usam um mapa com dois eixos numerados. O professor marcou o ponto A na posição (3, 2) e explicou que o primeiro número indica o deslocamento horizontal. Qual é a coordenada horizontal do ponto A?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "n": 5,
+    "text": "Na feira de ciências, um grupo desenhou o formato de um jardim em papel quadriculado. A região interna do desenho cobre exatamente 12 quadradinhos, cada um representando 1 cm², sem espaços vazios ou sobreposições. Qual é a área representada?",
+    "options": [
+      "6 cm²",
+      "10 cm²",
+      "12 cm²",
+      "14 cm²",
+      "24 cm²"
+    ]
+  },
+  {
+    "n": 6,
+    "text": "A biblioteca organizou uma campanha de leitura e registrou, em uma semana, os seguintes resultados: Ana leu 3 livros; Beto, 5; Caio, 2; e Dani, 4. A equipe premiará quem registrou a maior quantidade de livros. Quem receberá o prêmio?",
+    "options": [
+      "Ana",
+      "Beto",
+      "Caio",
+      "Dani",
+      "Todos igualmente"
+    ]
+  },
+  {
+    "n": 7,
+    "text": "Uma estação meteorológica registrou −3 °C às 6 horas. Durante a manhã, a temperatura aumentou 5 °C em relação ao primeiro registro. Um estudante afirmou que, após esse aumento, ainda fazia uma temperatura negativa. Qual valor mostra corretamente a nova temperatura?",
+    "options": [
+      "−8 °C",
+      "−2 °C",
+      "0 °C",
+      "2 °C",
+      "8 °C"
+    ]
+  },
+  {
+    "n": 8,
+    "text": "Pedro acompanha as entradas e saídas de dinheiro em um aplicativo. Pela manhã, seu saldo era positivo em R$ 18,00. À tarde, foi registrada uma compra de R$ 25,00, sem outras movimentações. Qual saldo o aplicativo deverá mostrar depois da compra?",
+    "options": [
+      "R$ −43",
+      "R$ −7",
+      "R$ 7",
+      "R$ 18",
+      "R$ 43"
+    ]
+  },
+  {
+    "n": 9,
+    "text": "Cinco equipes de um torneio de robótica concluíram partes diferentes de seus projetos: 0,25; 1/2; 0,4; 0,35; e 1/5 do trabalho. Considerando que todas começaram com a mesma quantidade de tarefas, qual fração ou decimal representa a maior parte concluída?",
+    "options": [
+      "0,25",
+      "1/2",
+      "0,4",
+      "0,35",
+      "1/5"
+    ]
+  },
+  {
+    "n": 10,
+    "text": "Uma ciclovia será sinalizada com placas colocadas a intervalos regulares. As primeiras placas estão nas posições 4, 7, 10 e 13 metros de uma referência. Se a regra de espaçamento continuar, em qual posição estará a placa seguinte?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17",
+      "20"
+    ]
+  },
+  {
+    "n": 11,
+    "text": "Uma oficina de tecnologia testa uma máquina que dobra a quantidade de peças produzidas em cada rodada. Os registros mostram 2 peças na primeira rodada, 4 na segunda, 8 na terceira e 16 na quarta. Mantida essa regra, qual produção é esperada na quinta rodada?",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "30",
+      "32"
+    ]
+  },
+  {
+    "n": 12,
+    "text": "A escola quer instalar uma cerca ao redor de uma pequena horta retangular. No projeto, a horta terá 8 metros de comprimento e 3 metros de largura, e a cerca contornará todos os lados uma única vez. Quantos metros de material serão necessários, sem considerar o portão?",
+    "options": [
+      "11 m",
+      "16 m",
+      "22 m",
+      "24 m",
+      "48 m"
+    ]
+  },
+  {
+    "n": 13,
+    "text": "Para calcular a quantidade de revestimento de uma sala maker, o responsável mediu um piso retangular de 6 metros de comprimento por 4 metros de largura. As peças serão instaladas em toda a superfície, sem sobras ou perdas. Qual área precisa ser revestida?",
+    "options": [
+      "10 m²",
+      "20 m²",
+      "24 m²",
+      "26 m²",
+      "48 m²"
+    ]
+  },
+  {
+    "n": 14,
+    "text": "Duas barracas participaram de uma feira. A barraca A vendeu 12 frutas pela manhã e 8 à tarde; a barraca B vendeu 9 pela manhã e 15 à tarde. O organizador quer saber qual delas vendeu mais frutas no dia inteiro, e não apenas em um período. Qual conclusão está correta?",
+    "options": [
+      "A, com 20",
+      "A, com 24",
+      "B, com 20",
+      "B, com 24",
+      "As duas, com 24"
+    ]
+  },
+  {
+    "n": 15,
+    "text": "Uma receita de bolo para uma atividade da escola pede inicialmente 1/2 xícara de leite. Ao conferir a textura, a equipe decide acrescentar mais 1/4 de xícara. Sem retirar nada da mistura, que quantidade total de leite foi utilizada?",
+    "options": [
+      "1/8",
+      "1/4",
+      "2/6",
+      "3/4",
+      "1"
+    ]
+  },
+  {
+    "n": 16,
+    "text": "Uma costureira cobra R$ 12,50 por metro de tecido. Uma equipe precisa comprar exatamente 3 metros do mesmo tecido para confeccionar uma decoração e não há taxa adicional. Quanto deverá pagar pela compra?",
+    "options": [
+      "R$ 15,50",
+      "R$ 25,00",
+      "R$ 35,50",
+      "R$ 37,50",
+      "R$ 42,50"
+    ]
+  },
+  {
+    "n": 17,
+    "text": "Uma loja anuncia um tênis por R$ 200,00 e oferece desconto de 15% sobre o preço original para pagamento à vista. Marina quer saber quanto realmente sairá de sua conta, e não apenas o valor do desconto. Qual será o preço final?",
+    "options": [
+      "R$ 30,00",
+      "R$ 150,00",
+      "R$ 170,00",
+      "R$ 185,00",
+      "R$ 215,00"
+    ]
+  },
+  {
+    "n": 18,
+    "text": "Na cantina, uma receita usa 6 laranjas para preparar 4 copos de suco do mesmo tamanho. Para atender a uma turma, a equipe quer preparar 10 copos, mantendo a mesma concentração e sem desperdício. Quantas laranjas serão necessárias?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18",
+      "24"
+    ]
+  },
+  {
+    "n": 19,
+    "text": "Um cinema vende ingressos de mesmo valor e cobra uma taxa fixa de R$ 6,00 por compra on-line. Lucas comprou dois ingressos e pagou R$ 40,00 no total. Se x representa o preço de um ingresso, qual é o valor de x?",
+    "options": [
+      "R$ 14",
+      "R$ 16",
+      "R$ 17",
+      "R$ 20",
+      "R$ 23"
+    ]
+  },
+  {
+    "n": 20,
+    "text": "Um aplicativo de transporte informa antes da viagem que a tarifa inclui R$ 5,00 fixos e mais R$ 3,00 por quilômetro percorrido. Uma corrida teve 4 quilômetros e não houve outras cobranças. Qual valor o passageiro deverá pagar?",
+    "options": [
+      "R$ 12",
+      "R$ 15",
+      "R$ 17",
+      "R$ 20",
+      "R$ 23"
+    ]
+  },
+  {
+    "n": 21,
+    "text": "Em uma atividade de geolocalização, um robô parte da origem (0, 0) de um plano cartesiano. O terceiro quadrante reúne posições à esquerda do eixo vertical e abaixo do eixo horizontal. Qual das coordenadas apresentadas corresponde a uma posição nesse quadrante?",
+    "options": [
+      "(2, 3)",
+      "(−2, 3)",
+      "(−2, −3)",
+      "(2, −3)",
+      "(0, −3)"
+    ]
+  },
+  {
+    "n": 22,
+    "text": "Uma turma vai construir uma caixa organizadora em forma de paralelepípedo retângulo, com medidas internas de 5 cm de comprimento, 4 cm de largura e 3 cm de altura. O professor pediu o espaço interno ocupado pela caixa, e não a soma das áreas das faces. Qual é seu volume?",
+    "options": [
+      "12 cm³",
+      "20 cm³",
+      "35 cm³",
+      "60 cm³",
+      "120 cm³"
+    ]
+  },
+  {
+    "n": 23,
+    "text": "Uma papelaria anotou as vendas de cadernos em quatro dias: segunda-feira, 20; terça-feira, 25; quarta-feira, 15; quinta-feira, 30. A gerente deseja calcular quantos cadernos foram vendidos por dia, em média, considerando os quatro dias igualmente. Qual é essa média?",
+    "options": [
+      "20",
+      "22,5",
+      "25",
+      "27,5",
+      "30"
+    ]
+  },
+  {
+    "n": 24,
+    "text": "Em um desafio de programação, a pontuação final é calculada pela expressão (−2)³ + 3². O regulamento informa que primeiro devem ser calculadas as potências e só depois realizada a soma. Qual é a pontuação obtida?",
+    "options": [
+      "−17",
+      "−1",
+      "1",
+      "5",
+      "17"
+    ]
+  },
+  {
+    "n": 25,
+    "text": "Duas empresas oferecem serviços de impressão para uma feira. A empresa A cobra, em reais, 3x + 12; a empresa B cobra x + 36, em que x é a quantidade de lotes solicitados. Para qual quantidade de lotes os preços das duas empresas serão iguais?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "24"
+    ]
+  },
+  {
+    "n": 26,
+    "text": "Para organizar um evento, 6 pessoas, trabalhando no mesmo ritmo, levam 8 horas para concluir uma tarefa. Em outra data, apenas 4 pessoas estarão disponíveis, mas a quantidade de trabalho será a mesma. Mantendo a produtividade individual, quanto tempo será necessário?",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "12",
+      "16"
+    ]
+  },
+  {
+    "n": 27,
+    "text": "Uma praça possui um canteiro quadrado de 3 metros de lado. No novo projeto, cada lado será duplicado, mantendo o formato quadrado. Um morador acredita que a área também será apenas duplicada. Qual será, de fato, a área do canteiro ampliado?",
+    "options": [
+      "12 m²",
+      "18 m²",
+      "24 m²",
+      "36 m²",
+      "72 m²"
+    ]
+  },
+  {
+    "n": 28,
+    "text": "Uma equipe desenhou uma bandeirola triangular para uma festa. Dois ângulos internos foram medidos e registraram 48° e 67°. Para cortar corretamente o terceiro vértice, é preciso considerar a soma dos ângulos internos de um triângulo. Qual deve ser a medida do ângulo restante?",
+    "options": [
+      "55°",
+      "65°",
+      "75°",
+      "85°",
+      "115°"
+    ]
+  },
+  {
+    "n": 29,
+    "text": "Em uma dinâmica de probabilidade, uma caixa contém 3 bolas azuis, 2 verdes e 5 amarelas, todas iguais em tamanho e com a mesma chance de serem retiradas. Uma bola será sorteada sem olhar. Qual é a probabilidade de ela ser verde?",
+    "options": [
+      "1/10",
+      "1/5",
+      "1/4",
+      "2/5",
+      "1/2"
+    ]
+  },
+  {
+    "n": 30,
+    "text": "Um jornal escolar publicou um gráfico comparando resultados de duas turmas: 98 e 100 pontos. Para destacar a diferença, o eixo vertical do gráfico começa em 95, e não em zero. Ao interpretar a imagem, que cuidado o leitor deve ter para não tirar uma conclusão exagerada?",
+    "options": [
+      "A diferença é de 100 pontos",
+      "As barras sempre representam porcentagens",
+      "O eixo cortado pode exagerar visualmente uma pequena diferença",
+      "Os dados não podem ser comparados",
+      "A pontuação 98 é maior que 100"
+    ]
+  }
+]

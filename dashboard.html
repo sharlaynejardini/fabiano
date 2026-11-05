@@ -1,0 +1,19 @@
+<nav class="topnav" aria-label="Acessos"><button class="secondary" id="studentArea">Avaliação</button><button class="secondary" id="teacherArea">Área do professor</button></nav>
+<section id="teacherLogin" class="panel hidden">
+  <div class="eyebrow">Área do professor</div><h2>Acompanhe a aprendizagem da turma</h2>
+  <p class="muted">Consulte as entregas, as notas e os resultados de cada questão.</p>
+  <form id="loginForm"><label class="field">Senha do professor<input type="password" id="teacherPassword" autocomplete="current-password" required maxlength="200"></label><button id="loginButton" type="submit">Entrar no dashboard</button></form>
+  <p class="status" id="loginStatus" role="status" aria-live="polite"></p>
+</section>
+<section id="dashboard" class="hidden" aria-label="Dashboard do professor">
+  <div class="panel dashheading"><div><div class="eyebrow">Painel do professor</div><h2>Resultados da avaliação</h2><p class="muted" id="lastUpdate"></p></div><div class="toolbar"><button id="refreshData" class="secondary">Atualizar</button><button id="exportData" class="secondary">Exportar CSV</button><button id="logout" class="secondary">Sair</button></div></div>
+  <p id="dashboardStatus" class="status" role="status" aria-live="polite"></p>
+  <div class="panel filters"><label class="field">Turma<select id="classFilter"><option value="">Todas as turmas</option></select></label><label class="field">Buscar aluno<input id="nameFilter" type="search" placeholder="Digite o nome do aluno"></label><p class="muted">Os filtros atualizam os indicadores, os gráficos e a lista de alunos. Cada entrega conta como uma tentativa.</p></div>
+  <div class="kpis"><article class="panel kpi"><span>Entregas</span><strong id="kpiCount">0</strong></article><article class="panel kpi"><span>Média das notas</span><strong id="kpiMean">—</strong><small>escala de 0 a 10</small></article><article class="panel kpi"><span>Acerto geral</span><strong id="kpiAccuracy">—</strong></article><article class="panel kpi"><span>Questões abaixo de 50%</span><strong id="kpiReview">—</strong><small>para orientar a retomada</small></article></div>
+  <div class="panel chartpanel"><h3>Acertos por questão</h3><p class="muted">Percentual de alunos que acertaram cada item. Clique em uma questão na tabela para ver as alternativas escolhidas.</p><div id="questionChart" class="chartscroll"></div></div>
+  <div class="panel chartpanel"><h3>Distribuição das notas</h3><div id="gradeChart"></div></div>
+  <div class="panel chartpanel"><h3>Análise das questões</h3><div class="tablewrap"><table><thead><tr><th>Questão</th><th>Habilidade</th><th>Gabarito</th><th>Acertos</th><th>Erros</th><th>% de acertos</th></tr></thead><tbody id="questionRows"></tbody></table></div></div>
+  <div class="panel chartpanel"><h3>Notas dos alunos</h3><p class="muted" id="studentsCaption"></p><div class="tablewrap"><table><thead><tr><th>Aluno</th><th>Ano</th><th>Turma</th><th>Entrega</th><th>Acertos</th><th>Nota</th><th>Respostas</th></tr></thead><tbody id="studentRows"></tbody></table></div></div>
+  <p class="muted footnote">Cada questão vale 1 ponto. Nota = acertos ÷ 30 × 10. Os níveis do documento descrevem os itens e não correspondem a uma classificação do aluno na escala TRI do Avalia+.</p>
+</section>
+<dialog id="detailDialog"><div class="dialogheading"><h2 id="detailTitle"></h2><button class="secondary" id="closeDetail" aria-label="Fechar detalhes">Fechar</button></div><div id="detailBody"></div></dialog>
